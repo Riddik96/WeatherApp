@@ -1,6 +1,13 @@
-# Getting Started with Create React App
+# Simple Weather React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is app uses your location and shows you the current
+weather and the 7 days forecasting using the Open Meteo API.
+
+## Tech used
+
+In this simple project i've used React and TailwindCSS, 
+I didn't used Redux because the state of the app is very simple
+and the use of the useState hook alone is more than enough.
 
 ## Available Scripts
 
@@ -13,11 +20,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
 ### `npm run build`
 
