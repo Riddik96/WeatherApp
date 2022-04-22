@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/SimpleWeatherApp/static/css/main.adc5aeb2.css",
+    "main.js": "/SimpleWeatherApp/static/js/main.e5db524a.js",
+    "static/media/thunderstorms-day-snow.svg": "/SimpleWeatherApp/static/media/thunderstorms-day-snow.6863d8b64fbacb94f270e99b8d4e8fc8.svg",
+    "static/media/thunderstorms-day-rain.svg": "/SimpleWeatherApp/static/media/thunderstorms-day-rain.db6e82d0b5e11ac8686710256c79229a.svg",
+    "static/media/snow.svg": "/SimpleWeatherApp/static/media/snow.ef3313dae88a5d1dbccb8653e2206da0.svg",
+    "static/media/rain.svg": "/SimpleWeatherApp/static/media/rain.6f43169e2db3a96adc41053a0bbb9146.svg",
+    "static/media/drizzle.svg": "/SimpleWeatherApp/static/media/drizzle.ae14aba413100d921c3c6cfbb5251684.svg",
+    "static/media/overcast-day.svg": "/SimpleWeatherApp/static/media/overcast-day.8632010bebb9d500d568b01d3374be24.svg",
+    "static/media/thunderstorms-day.svg": "/SimpleWeatherApp/static/media/thunderstorms-day.448033cc79df4a46e805e10fe94d6799.svg",
+    "static/media/fog-day.svg": "/SimpleWeatherApp/static/media/fog-day.8642a433dd0d7213070bd50c55efc084.svg",
+    "static/media/thermometer-warmer.svg": "/SimpleWeatherApp/static/media/thermometer-warmer.5f9dfc8ccdb911dfa0fe592996330abb.svg",
+    "static/media/thermometer-colder.svg": "/SimpleWeatherApp/static/media/thermometer-colder.88b91af5f3ec11036126a092ea0d0365.svg",
+    "static/media/partly-cloudy-day.svg": "/SimpleWeatherApp/static/media/partly-cloudy-day.9a86613b2a5a0aebf924087c7d324c74.svg",
+    "static/media/thermometer.svg": "/SimpleWeatherApp/static/media/thermometer.08fc871be54f08b6c0e3c0c349bbb677.svg",
+    "static/media/wind.svg": "/SimpleWeatherApp/static/media/wind.7666ea56edeecb3eff022542f7995c2d.svg",
+    "static/media/compass.svg": "/SimpleWeatherApp/static/media/compass.9ead3f7e874a03099e4bb51f3ffb35b9.svg",
+    "static/media/clear-day.svg": "/SimpleWeatherApp/static/media/clear-day.54288da67b71b4b19483d373d683257f.svg",
+    "index.html": "/SimpleWeatherApp/index.html",
+    "main.adc5aeb2.css.map": "/SimpleWeatherApp/static/css/main.adc5aeb2.css.map",
+    "main.e5db524a.js.map": "/SimpleWeatherApp/static/js/main.e5db524a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.adc5aeb2.css",
+    "static/js/main.e5db524a.js"
+  ]
+}
