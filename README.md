@@ -3,6 +3,8 @@
 This is app uses your location and shows you the current
 weather and the 7 days forecasting using the Open Meteo API.
 
+[App Preview](https://riddik96.github.io/WeatherApp/)
+
 ## Tech used
 
 In this simple project i've used React and TailwindCSS, 
